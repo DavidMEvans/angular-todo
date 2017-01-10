@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "DavidMEvans <devans6915@aol.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/DavidMEvans/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
+  }
+}
