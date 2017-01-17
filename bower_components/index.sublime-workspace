@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"profile"
+			],
+			[
+				"p",
+				"profile"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"t",
+				"telephone"
+			],
+			[
+				"field",
+				"fieldset"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"inline",
+				"inline-grid"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"styl",
+				"style2"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"to",
+				"border-top"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"b",
+				"ruby-base"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"co",
+				"codecs"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"bo",
+				"border-bottom-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"i",
+				"inline-flex"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Install Package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelevans/Documents/angular-todo/bower_components/index.html",
+		"/Users/michaelevans/Documents/angular-todo/.gitignore",
+		"/Users/michaelevans/Desktop/Learning People/jquery-table/table.html",
+		"/Users/michaelevans/Desktop/Learning People/jquery-table/my_script.js",
+		"/Users/michaelevans/Desktop/Learning People/Files 21/js/script.js",
+		"/Users/michaelevans/Desktop/Learning People/Files 21/css/style.css",
+		"/Users/michaelevans/Desktop/Learning People/Files 21/Challenge_a.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 20 copy/js/script.js",
+		"/Users/michaelevans/Desktop/Learning People/Files 20 copy/traversing_mt_dom.html",
+		"/Users/michaelevans/Desktop/Learning People/File 19/files-l19/Sample Site - lesson19 - Copy/script.js",
+		"/Users/michaelevans/Desktop/test folder/script.js",
+		"/Users/michaelevans/Desktop/Learning People/Files 20 copy/css/style.css",
+		"/Users/michaelevans/Desktop/Learning People/untitled.html",
+		"/Users/michaelevans/Desktop/test folder/traversing_mt_dom.html",
+		"/Users/michaelevans/Desktop/test folder/style.css",
+		"/Users/michaelevans/Desktop/Learning People/File 19/files-l19/Sample Site - lesson19 - Copy/style.css",
+		"/Users/michaelevans/Desktop/Learning People/Files 18/files-l18/Sample Site/Cards-jquery.html",
+		"/Users/michaelevans/Desktop/Learning People/JSON.js",
+		"/Users/michaelevans/Desktop/Learning People/hero.html",
+		"/Users/michaelevans/Desktop/Learning People/Clark.html",
+		"/Users/michaelevans/Desktop/Learning People/Bootstrap/css/filter.js",
+		"/Users/michaelevans/Desktop/Learning People/Bootstrap/css/bootstrap-theme.min.css",
+		"/Users/michaelevans/Desktop/Learning People/untitled100.html",
+		"/Users/michaelevans/Desktop/Learning People/carousel.html",
+		"/Users/michaelevans/Desktop/Learning People/untitled4.html",
+		"/Users/michaelevans/Desktop/Learning People/numbers.html",
+		"/Users/michaelevans/Desktop/Learning People/default.css",
+		"/Users/michaelevans/Desktop/Learning People/untitled101.html",
+		"/Users/michaelevans/Desktop/Learning People/untitled65a.html",
+		"/Users/michaelevans/Desktop/Learning People/untitled33.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 6/files-l6/navigation.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 4/files-I4/VideoExample-start.html",
+		"/Users/michaelevans/Desktop/Learning People/style2.css",
+		"/Users/michaelevans/Desktop/Learning People/rerun3.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 3/files-l3/steps-start.html",
+		"/Users/michaelevans/Desktop/Learning People/rerun2.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 2/Ex_Unit2-box/Challenge2-FullLayout/Ex-Full-Layout.html",
+		"/Users/michaelevans/Desktop/Learning People/Rerun.html",
+		"/Users/michaelevans/Documents/test/Hello World 2.txt",
+		"/Users/michaelevans/Desktop/Learning People/js/my_script.js",
+		"/Users/michaelevans/Desktop/Learning People/Fikles 18/files-l18/Sample Site/style.css",
+		"/Users/michaelevans/Desktop/Learning People/Bootstrap/according.html",
+		"/Users/michaelevans/Desktop/Learning People/Bootstrap/boot.html",
+		"/Users/michaelevans/Desktop/Learning People/untitledboot.html",
+		"/Users/michaelevans/Desktop/Learning People/bootstraphello.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 1/Ex_Unit1-intro/Borders.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 1/Ex_Unit1-intro/Challenge1-box.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 5/files-l5/gradient.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 5/files-l5/animate-header.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 5/files-l5/Lesson5-Challenge-Extra-2/index.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 4/files-I4/Floating-sidebyside-start.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 3/files-l3/Challenge-CSS-Inheritance/inheritance.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 3/files-l3/Challenge-CSS-Inheritance/Challenge-CSS-Inheritance.pdf",
+		"/Users/michaelevans/Desktop/Learning People/Files 2/Ex_Unit2-box/walkthrough-boxes-end.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 2/Ex_Unit2-box/step-through-boxes.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 2/Ex_Unit2-box/Challenge1-centering/Challenge2_Start.html",
+		"/Users/michaelevans/Desktop/Learning People/Files 2/Ex_Unit2-box/Challenge1-centering/Challenge2_End.html",
+		"/Users/michaelevans/Desktop/Learning People/HTML Shortform/combined.html",
+		"/Users/michaelevans/Desktop/Learning People/HTML Shortform/one.html",
+		"/Users/michaelevans/Desktop/Learning People/files-l8/Challenge1/reset.css",
+		"/Users/michaelevans/Desktop/Learning People/navbarflexbox.html",
+		"/Users/michaelevans/Desktop/Learning People/navigation.html",
+		"/Users/michaelevans/Desktop/Learning People/boxes.html",
+		"/Users/michaelevans/Desktop/Learning People/table.html",
+		"/Users/michaelevans/Desktop/Learning People/mobile.html",
+		"/Users/michaelevans/Desktop/Learning People/reset.css",
+		"/Users/michaelevans/Desktop/Learning People/scale.html",
+		"/Users/michaelevans/Desktop/Learning People/scaletrial.html",
+		"/Users/michaelevans/Desktop/Learning People/animationtrial.css",
+		"/Users/michaelevans/Desktop/Learning People/animationtrial.html",
+		"/Users/michaelevans/Desktop/Learning People/Ex_Unit1-intro/animationtrial.css",
+		"/Users/michaelevans/Desktop/Learning People/transformtrial.html",
+		"/Users/michaelevans/Desktop/Learning People/Ex_Unit1-intro/Borders.html",
+		"/Users/michaelevans/Desktop/Learning People/videotrial.html",
+		"/Users/michaelevans/Desktop/Learning People/video.html",
+		"/Users/michaelevans/Desktop/Learning People/4images.html",
+		"/Users/michaelevans/Desktop/Learning People/Backgroundimage.html",
+		"/Users/michaelevans/Desktop/Learning People/untitledimages.html",
+		"/Users/michaelevans/Desktop/Learning People/Images.html",
+		"/Users/michaelevans/Desktop/Learning People/style.css",
+		"/Users/michaelevans/Desktop/Learning People/the-cascade.html",
+		"/Users/michaelevans/Desktop/Learning People/the cascade.css",
+		"/Users/michaelevans/Desktop/Learning People/ChallengeExternalCSS.html",
+		"/Users/michaelevans/Desktop/Learning People/untitled6.html",
+		"/Users/michaelevans/Desktop/Learning People/files-l3/arrow.png",
+		"/Users/michaelevans/Desktop/Learning People/untitled3.html",
+		"/Users/michaelevans/Desktop/Learning People/untitled2.html",
+		"/Users/michaelevans/Desktop/Learning People/LayoutChallenge3.html",
+		"/Users/michaelevans/Desktop/Learning People/ChallengeSidebar2.html",
+		"/Users/michaelevans/Desktop/Learning People/Ex_Unit2-box/Challenge2-FullLayout/Ex-Full-Layout2.html",
+		"/Users/michaelevans/Desktop/Learning People/Ex_Unit2-box/Challenge2-FullLayout/test.html",
+		"/Users/michaelevans/Desktop/Learning People/ChallengeSidebar1.html",
+		"/Users/michaelevans/Desktop/Learning People/HelloWorld.htm",
+		"/Users/michaelevans/Desktop/Learning People/FirstSubLimeFile"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
